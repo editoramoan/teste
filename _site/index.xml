@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Livro.Online</title>
+<link>https://livro.online/</link>
+<atom:link href="https://livro.online/index.xml" rel="self" type="application/rss+xml"/>
+<description>A plataforma de livros online da Editora Moan. Saiba como publicar, acesse os livros gratuitamente, faça cursos, assista à vídeos educativos e verifique todas as publicações da editora.</description>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Wed, 29 Nov 2023 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Vencendo um relacionamento abusivo</title>
+  <link>https://livro.online/</link>
+  <description>&#39;Vencendo um Relacionamento Abusivo: o despertar&#39; é uma jornada corajosa, com histórias e poemas reais que ecoam o grito por liberdade e amor-próprio. Neste livro, a autora Angela Camelo compartilha relatos de relacionamentos abusivos com nomes alterados para proteger a identidade das pessoas envolvidas. Por meio de narrativas envolventes e poesia tocante, o livro oferece uma perspectiva sobre o tema, auxiliando as pessoas a identificarem sinais de abuso e a encontrarem força para romper com essa dolorosa realidade. Angela Camelo convida você a se conectar emocionalmente com cada história, permitindo que você se enxergue nas palavras escritas e descubra a coragem necessária para enfrentar sua própria jornada. Ao reconhecer a importância do amor-próprio, você poderá trilhar o caminho para superar um relacionamento abusivo e evitar se tornar mais uma estatística trágica do feminicídio. Não há razão para suportar a opressão, o medo ou a dor. É hora de despertar para sua própria força interior e abraçar a liberdade que você merece. Através de atividades e dicas, este livro guiará você na busca da sua independência emocional e na reconstrução de uma vida saudável e feliz.</description>
+  <category>Autoajuda</category>
+  <category>Literatura</category>
+  <category>Angela Camelo</category>
+  <guid>https://livro.online/</guid>
+  <pubDate>Wed, 29 Nov 2023 03:00:00 GMT</pubDate>
+  <media:content url="https://livro.online/vencendoumrelacionamentoabusivo/img/CapaAnimM.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>Propostas didáticas para o ensino de matemática</title>
+  <dc:creator>Arleni Sella</dc:creator>
+  <dc:creator>Adriana Lepreda</dc:creator>
+  <dc:creator>Dulcyene Ribeiro</dc:creator>
+  <dc:creator>Fabiana Papani</dc:creator>
+  <dc:creator>Renata Camacho Bezerra</dc:creator>
+  <dc:creator>Richael Caetano</dc:creator>
+  <link>https://livro.online/</link>
+  <description>Descubra novas possibilidades no ensino de Matemática! Este livro apresenta propostas didáticas que desafiam o paradigma tradicional e abrem espaço para a criatividade e a dinamicidade em sala de aula. Sabemos que romper com o modelo convencional de ensino pode ser intimidador para muitos professores. Dessa forma, oferecemos uma alternativa valiosa ao ensino tradicional. Apresentamos propostas dinâmicas e muitas delas com o uso de jogos — tanto os analógicos quanto os digitais online, acessíveis por QR Code na versão impressa — como ferramentas pedagógicas. Essas atividades lúdicas promovem o engajamento, a interação e a compreensão dos conceitos matemáticos de forma envolvente e prazerosa. As propostas didáticas, neste livro, foram desenvolvidas no Programa Institucional de Bolsas de Iniciação à Docência (Pibid) por professores e acadêmicos dos cursos de Licenciatura em Matemática da Unioeste, tanto do campus de Cascavel quanto do de Foz do Iguaçu, Paraná. Explore novas possibilidade e renove a sua prática docente!</description>
+  <category>Ensino de Matemática</category>
+  <category>Matemática</category>
+  <category>Trigonometria</category>
+  <category>Arleni Sella</category>
+  <category>Adriana Lepreda</category>
+  <category>Dulcyene Ribeiro</category>
+  <category>Fabiana Papani</category>
+  <category>Renata Camacho Bezerra</category>
+  <category>Richael Caetano</category>
+  <guid>https://livro.online/</guid>
+  <pubDate>Sun, 22 Oct 2023 03:00:00 GMT</pubDate>
+  <media:content url="https://livro.online/propostas-didaticas-ensino-matematica/img/CapaAnimP.gif" medium="image" type="image/gif"/>
+</item>
+<item>
+  <title>Jean: entre jogos e brincadeiras</title>
+  <dc:creator>Diullye Miola</dc:creator>
+  <dc:creator>Demitry Santos</dc:creator>
+  <dc:creator>Guilherme Bigilini</dc:creator>
+  <dc:creator>Gustavo Rodrigues</dc:creator>
+  <dc:creator>Helena Oliveira</dc:creator>
+  <dc:creator>Isabella Santos</dc:creator>
+  <dc:creator>João Fernandes</dc:creator>
+  <dc:creator>Lucas Souza</dc:creator>
+  <dc:creator>Mariana Meyer</dc:creator>
+  <dc:creator>Mateus Tonini</dc:creator>
+  <dc:creator>Murilo Nascimento</dc:creator>
+  <link>https://livro.online/</link>
+  <description>Brincadeiras e jogos eletrônicos ou diversões off-line? Esse dilema é abordado por 10 crianças confrontadas ainda mais com esse assunto após a pandemia do coronavírus. Eles — e a professora Diullye — criaram a trama de um personagem fictício, o Jean, que incorpora todas as inquietações dos autores. Os jogos eletrônicos ajudaram na adaptação para as aulas on-line? Descubra a opinião desses autores infantis, mas já grandes nas realizações! Aproveite, também, para encontrar dicas de brincadeiras nesta obra e um jogo em Realidade Virtual (VR).</description>
+  <category>Infantojuvenil</category>
+  <category>Literatura</category>
+  <category>Diullye Miola</category>
+  <category>Demitry Santos</category>
+  <category>Guilherme Bigilini</category>
+  <category>Gustavo Rodrigues</category>
+  <category>Helena Oliveira</category>
+  <category>Isabella Santos</category>
+  <category>João Fernandes</category>
+  <category>Lucas Souza</category>
+  <category>Mariana Meyer</category>
+  <category>Mateus Tonini</category>
+  <category>Murilo Nascimento</category>
+  <guid>https://livro.online/</guid>
+  <pubDate>Mon, 28 Mar 2022 03:00:00 GMT</pubDate>
+  <media:content url="https://livro.online/jean-jogos-brincadeiras/img/CapaAnim_P.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>As Fábulas: O Lobo e o Cordeiro, a Raposa e as Uvas</title>
+  <dc:creator>Padre Marcos</dc:creator>
+  <dc:creator>Márcio Moitinha</dc:creator>
+  <link>https://livro.online/</link>
+  <description>A bem conhecida expressão &#39;moral da história&#39; tem origem no fantástico mundo das fábulas; esse fascinante e cativante gênero literário que atribui características humanas a animais, de modo a ensinar uma lição de natureza moral. Nesta obra, os autores Marcos André e Márcio Moitinha usam as suas expertises para traduzir — a partir do latim e do grego — as clássicas fábulas &#39;O Lobo e o Cordeiro&#39; e &#39;A Raposa e as Uvas&#39; de Fedro e Esopo, bem como analisar e comparar os estilos de cada um e, ainda, comparar com os estilos de outros renomados fabulistas que vieram depois e escreveram as suas próprias versões para esses clássicos, como o francês Jean de La Fontaine e os brasileiros Monteiro Lobato e Millôr Fernandes. Após essas análises de aspectos linguísticos, sempre com base nos originais em grego e latim, os aspectos moralizantes das fábulas são abordados a partir do ponto de vista de cada fabulista.</description>
+  <category>Fábulas</category>
+  <category>Literatura</category>
+  <category>Padre Marcos</category>
+  <category>Márcio Moitinha</category>
+  <guid>https://livro.online/</guid>
+  <pubDate>Tue, 06 Jul 2021 03:00:00 GMT</pubDate>
+  <media:content url="https://livro.online/fabulas-lobo-cordeiro-raposa-uvas/img/CapaAnimP.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>As funções trigonométricas circulares e hiperbólicas</title>
+  <link>https://livro.online/</link>
+  <description>Esta obra trata da construção da trigonometria hiperbólica na hipérbole trigonométrica, fazendo a comparação com a trigonometria circular. São abordados aspectos das funções trigonométricas circulares e hiperbólicas, relacionados ao cálculo diferencial e integral.</description>
+  <category>Geometria</category>
+  <category>Matemática</category>
+  <category>Trigonometria</category>
+  <category>Sandro Guzzo</category>
+  <guid>https://livro.online/</guid>
+  <pubDate>Mon, 22 Mar 2021 03:00:00 GMT</pubDate>
+  <media:content url="https://livro.online/trigonometria-hiperbolica/img/capa-trigonometria-hiperbolica.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>

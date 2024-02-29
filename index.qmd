@@ -1,0 +1,24 @@
+---
+title: "Livros Online"
+listing:
+  feed:
+    type: full
+  id: moan-livros
+  template: livros.ejs
+  contents: livros_online.yml  
+  type: grid
+  categories: cloud
+  page-size: 6
+  sort-ui: [title, date]
+  sort:
+    - "date desc"
+    - "title asc"
+  filter-ui: true
+page-layout: full
+---
+
+Aqui estão apenas os livros gratuitos e *online*. Para conhecer todas as publicações da [Editora Moan](https://editora.livro.online), acesse [Publicações](/publicacoes.html).
+
+::: {moan-livros}
+
+:::

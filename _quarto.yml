@@ -1,0 +1,23 @@
+project:
+  type: website
+  preview: 
+    port: 3000
+  
+
+lang: pt-BR
+
+
+website:
+  title: "Livro.Online"
+  site-url: 'https://livro.online/'
+  description: "A plataforma de livros online da Editora Moan. Saiba como publicar, acesse os livros gratuitamente, faça cursos, assista à vídeos educativos e verifique todas as publicações da editora."
+ 
+format:
+  html:
+    theme:
+      dark: superhero 
+      light: cosmo
+    mainfont: 'Source Sans Pro'
+
+
+
